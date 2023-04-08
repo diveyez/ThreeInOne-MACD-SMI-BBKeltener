@@ -12,3 +12,6 @@ Will regularly update this indicator with changes to improve the performance and
 This lower is intended for mobile and performance to be able to trade while occupied or traveling
 
 Place this in your lower, modify it if you desire.
+
+
+2023 - [https://github.com/diveyez/ThreeInOne-MACD-SMI-BBKeltener](https://github.com/diveyez/ThreeInOne-MACD-SMI-BBKeltener)
