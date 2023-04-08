@@ -11,4 +11,4 @@ This is simply a Custom RSI Indicator with Impulse MACD and Bollinger Bands Kelt
 Will regularly update this indicator with changes to improve the performance and functionality
 This lower is intended for mobile and performance to be able to trade while occupied or traveling
 
-Place this in your lower
+Place this in your lower, modify it if you desire.
